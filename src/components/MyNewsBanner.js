@@ -34,9 +34,11 @@ const styles = StyleSheet.create({
         
         justifyContent: 'flex-end',
         width : Dimensions.get('window').width * 0.90,
-        height: Dimensions.get('window').height * 0.30,
+        height: Dimensions.get('window').height * 0.20,
+        resizeMode: 'contain',
+        
         margin: 10,
-        resizeMode: 'cover'
+        
     },
     Text:{
         position: 'absolute',
