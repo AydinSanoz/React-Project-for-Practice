@@ -1,5 +1,0 @@
-export * from './Button'
-export * from './Input'
-export * from './NewsCard'
-export * from './MyNewsBanner'
-export * from './MyNewsCard'

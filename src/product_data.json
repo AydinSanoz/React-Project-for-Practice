@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "title": "İstanbul",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "price": "₺134,77",
+        "inStock": true
+    },
+    {
+        "id": 1,
+        "title": "Ankara",
+        "imgURL": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg",
+        "price": "₺1.810,21",
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "title": "Erzurum",
+        "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
+        "price": "₺6.992,25",
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "title": "Sivas",
+        "imgURL": "https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg",
+        "price": "₺4.614,38",
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "title": "Merzifon",
+        "imgURL": "https://m.media-amazon.com/images/I/71mUIp9oCXL._AC._SR360,460.jpg",
+        "price": "₺2.995,80",
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "title": "Kastamonu",
+        "imgURL": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC._SR360,460.jpg",
+        "price": "₺1.299,00",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "title": "Elazığ",
+        "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
+        "price": "₺2.496,50",
+        "inStock": false
+    },
+    {
+        "id": 7,
+        "title": "Denizli",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41vVdTukkgL._AC_SX522_.jpg",
+        "price": "₺134,70",
+        "inStock": false
+    },
+    {
+        "id": 8,
+        "title": "Burdur",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg",
+        "price": "₺269,73",
+        "inStock": true
+    },
+    {
+        "id": 9,
+        "title": "Isparta",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg",
+        "price": "₺478,53",
+        "inStock": true
+    },
+    {
+        "id": 10,
+        "title": "Karabük",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg",
+        "price": "₺296,00",
+        "inStock": true
+    }
+]
