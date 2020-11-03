@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View,Image,StyleSheet} from 'react-native';
+import { Text, View,Image,StyleSheet, Dimensions} from 'react-native';
 
 
 const MyNewsCard = ({newsData}) => {
@@ -33,8 +33,8 @@ const styles = StyleSheet.create({
 
     },
     Image:{
-        resizeMode: "cover",
-        height: 250,
+        resizeMode: "contain",
+        height: Dimensions.get('window').height /4,
     },
     Title:{
         fontWeight : '800',
